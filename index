@@ -8,7 +8,7 @@
     <nav>
       <ul>
         <li><a href="/">Home</a></li>
-        <li><a href="/pages/about">About</a></li>
+        <li><a href="/pages/">About</a></li>
         <li><a href="/pages/cv">CV</a></li>
       </ul>
     </nav>
