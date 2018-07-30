@@ -1,0 +1,18 @@
+body {
+  background: #101010;
+}
+
+.code {
+  position: absolute;
+  width: 300px;
+  min-width: 300px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #1ec503;
+}
+
+a {
+  color: #1ec503;
+  text-decoration: none;
+}

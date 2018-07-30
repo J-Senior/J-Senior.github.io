@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>J-Senior Error404</title>
+    <link rel="stylesheet" type="text/css" href="/css/error404.css">
+  </head>
+  <body>
+    <pre class="code">
+      <code>
+void 404Error() {
+  if(destination == back) {
+    <a href="javascript:history.go(-1)">goBack();</a>  <!--- I know this is horrible, leave me alone --->
+  } else {
+    <a href="/">goToHomepage();</a>
+  }
+}
+      </code>
+    </pre>
+  </body>
+</html>
